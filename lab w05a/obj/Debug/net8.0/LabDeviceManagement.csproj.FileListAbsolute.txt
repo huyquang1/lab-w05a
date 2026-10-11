@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\lab w05a\obj\Debug\net8.0\LabDeviceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\lab w05a\obj\Debug\net8.0\LabDeviceManagement.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\lab w05a\obj\Debug\net8.0\LabDeviceManagement.AssemblyInfo.cs
+C:\Users\ACER\Downloads\lab w05a\obj\Debug\net8.0\LabDeviceManagement.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\lab w05a\bin\Debug\net8.0\LabDeviceManagement.exe
+C:\Users\ACER\Downloads\lab w05a\bin\Debug\net8.0\LabDeviceManagement.deps.json
+C:\Users\ACER\Downloads\lab w05a\bin\Debug\net8.0\LabDeviceManagement.runtimeconfig.json
+C:\Users\ACER\Downloads\lab w05a\bin\Debug\net8.0\LabDeviceManagement.dll
+C:\Users\ACER\Downloads\lab w05a\bin\Debug\net8.0\LabDeviceManagement.pdb
+C:\Users\ACER\Downloads\lab w05a\obj\Debug\net8.0\LabDeviceManagement.dll
+C:\Users\ACER\Downloads\lab w05a\obj\Debug\net8.0\refint\LabDeviceManagement.dll
+C:\Users\ACER\Downloads\lab w05a\obj\Debug\net8.0\LabDeviceManagement.pdb
+C:\Users\ACER\Downloads\lab w05a\obj\Debug\net8.0\LabDeviceManagement.genruntimeconfig.cache
+C:\Users\ACER\Downloads\lab w05a\obj\Debug\net8.0\ref\LabDeviceManagement.dll
